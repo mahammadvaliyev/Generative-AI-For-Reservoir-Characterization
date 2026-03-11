@@ -1,4 +1,6 @@
-# DCGAN-for-parametrization-and-image-generation (SPE paper OTC-36887-MS )
+# Generative AI For Reservoir Characterization: Parameterization and Facies Modeling with GANs and VAEs (SPE paper OTC-36887-MS )
+
+
 
 ## Summary
 
