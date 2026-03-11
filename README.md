@@ -1,4 +1,4 @@
-# DCGAN-for-parametrization-and-image-generation
+# DCGAN-for-parametrization-and-image-generation (SPE paper OTC-36887-MS )
 
 ## Summary
 
